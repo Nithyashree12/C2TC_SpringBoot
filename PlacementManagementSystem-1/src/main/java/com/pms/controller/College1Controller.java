@@ -22,7 +22,7 @@ import com.pms.service.ICollegeService;
 @RestController
 @RequestMapping("/college")
 
-public class CollegeController{
+public class College1Controller{
 		
 	@Autowired
 	private ICollegeService service;

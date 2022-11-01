@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @EnableAutoConfiguration
 
-public class PlacementManagementSystem1Application {
+public class PlacementManagementSystem2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlacementManagementSystem1Application.class, args);
+		SpringApplication.run(PlacementManagementSystem2Application.class, args);
 	}
 
 }
