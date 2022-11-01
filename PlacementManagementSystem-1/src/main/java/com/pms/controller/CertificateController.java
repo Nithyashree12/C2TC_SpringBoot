@@ -22,7 +22,7 @@ import com.pms.service.ICertificateService;
 @RestController
 @RequestMapping("/certificate")
 
-public class Certificate1Controller{
+public class CertificateController{
 		
 	@Autowired
 	private ICertificateService service;
